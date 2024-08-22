@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">I am a second year student at Pamukkale University.
+<h3 align="center">I'm a student at Pamukkale University.
 </h3>
 
 - I’m currently learning **Go**
 
-- How to reach me **trnfurkan9@gmail.com**
+- How to reach me **trnfurkan783@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
