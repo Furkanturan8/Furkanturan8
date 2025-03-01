@@ -2,7 +2,7 @@
 <h3 align="center">I'm a student at Pamukkale University.
 </h3>
 
-- I’m currently learning **Go**
+- I’m interested in **Go** and **Vue.js**
 
 - How to reach me **turanfurkan783@gmail.com**
 
