@@ -2,7 +2,23 @@
 <h3 align="center">I'm a student at Pamukkale University.
 </h3>
 
-- I’m interested in **Go** and **Vue.js**
+I am a computer engineering student with a strong background in **networking and network security**, and I am complementing my knowledge in this field with my back-end development experience using **Go**.
+
+## Network and Security Infrastructure
+
+- Configured and managed **CISCO** and **Huawei** switches and routers.
+- Managed **Fortinet FortiGate** firewalls with a focus on security policies and traffic management.
+- Used **SolarWinds** for network monitoring and security analysis.
+- Managed physical cabinet installations and structured cabling for efficient network operations.
+
+## Backend Development
+
+- Primarily used **Go**, focusing on performance and scalability.
+- Additionally developed backend services using **Java** and **Python**.
+- Enhanced the user experience by creating dynamic and responsive user interfaces with **Vue.js**.
+
+You can review my projects and contact me for collaboration opportunities.
+
 
 - How to reach me **turanfurkan783@gmail.com**
 
