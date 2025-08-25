@@ -20,8 +20,6 @@ I am a computer engineering student with a strong background in **networking and
 You can review my projects and contact me for collaboration opportunities.
 
 
-- How to reach me **turanfurkan783@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/furkan-turan-3b7713245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-turan-3b7713245" height="30" width="40" /></a>
